@@ -1,0 +1,11 @@
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\bin\Debug\WinFormKontrolleri.exe.config
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\bin\Debug\WinFormKontrolleri.exe
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\bin\Debug\WinFormKontrolleri.pdb
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.AssemblyReference.cache
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.Properties.Resources.resources
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.TextBoxKontrolleri.resources
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.GenerateResource.cache
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.exe
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.pdb
