@@ -9,3 +9,7 @@ C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debu
 C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.CoreCompileInputs.cache
 C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.exe
 C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.pdb
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.ListBoxKontrolleri.resources
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.WebBrowserVeToolStrip.resources
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.PictureBoxControlleri.resources
+C:\Users\toshiba\Documents\GitHub\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.RichTextEditorZortu.resources

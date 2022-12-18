@@ -16,7 +16,8 @@ namespace WinFormKontrolleri
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TextBoxKontrolleri());
+            Application.Run(new RichTextEditorZortu());
+            //Application.Run(new WebBrowserVeToolStrip());
         }
     }
 }
